@@ -35,5 +35,17 @@ Part 1: Directions on setting up Git/Webstorm/Github
   Setting up GitHub Desktop
   
     Step 1:
-    Using the following link to download the latest version of GitHub desktop for your operating system:
+    Use the following link to download the latest version of GitHub desktop for your operating system:
       https://desktop.github.com/
+    
+    Step 2:
+    Sign into your GitHub account and authorize GitHub desktop.
+    
+    You should see your recently created repositories under the Your Repositories List.
+    
+    Step 3: 
+    Select your repository and clone it.
+  
+  Setting up WebStorm
+  
+    Use the following link to download the latest version of WebStorm
